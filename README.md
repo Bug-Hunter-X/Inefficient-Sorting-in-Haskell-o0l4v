@@ -1,0 +1,3 @@
+This repository demonstrates a common, yet inefficient approach to sorting in Haskell. The `bug.hs` file contains code that sorts a list using the built-in `sort` function, which is generally efficient for smaller lists, but may not be suitable for extremely large datasets.
+
+The `bugSolution.hs` file offers an improved implementation using a more efficient sorting algorithm (e.g., mergesort or quicksort) for handling larger inputs.
